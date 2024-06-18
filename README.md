@@ -1,2 +1,2 @@
 # alx_be_shell
-Shell Permissions
+Shell commands for permissions
